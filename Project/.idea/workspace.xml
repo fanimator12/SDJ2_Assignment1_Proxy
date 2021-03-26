@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7da32f1c-7ae6-41cb-b672-ec5eeda387bb" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Project/kingdombpe/mining/Deposit.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Project/kingdombpe/mining/Deposit.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Project/kingdombpe/mining/Jewels.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Project/kingdombpe/mining/Jewels.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Project/kingdombpe/mining/Mine.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Project/kingdombpe/mining/Mine.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Project/kingdombpe/mining/Valuable.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Project/kingdombpe/mining/Valuable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Project/kingdombpe/transport/ValuableTransporter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Project/kingdombpe/transport/ValuableTransporter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/actors/Accountant.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/actors/Accountant.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/actors/King.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/actors/King.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/kingdombpe/mining/Jewels.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/kingdombpe/mining/Jewels.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/kingdombpe/mining/Mine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/kingdombpe/mining/Mine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/kingdombpe/mining/Valuable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/kingdombpe/mining/Valuable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/kingdombpe/transport/ValuableTransporter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/kingdombpe/transport/ValuableTransporter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/proxy/TreasureRoom.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/proxy/TreasureRoom.java" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1bXDKgk5R21uvcSC3SiAvwToRZ0" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Project" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7da32f1c-7ae6-41cb-b672-ec5eeda387bb" name="Default Changelist" comment="" />
+      <created>1588769482305</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588769482305</updated>
+      <workItem from="1588770168488" duration="836000" />
+      <workItem from="1588771335722" duration="1991000" />
+      <workItem from="1589105099436" duration="2081000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1202" y="237" key="#com.intellij.ide.util.MemberChooser" timestamp="1589106163076">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-718" y="237" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1588782372018" />
+    <state x="1202" y="237" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1589106163076" />
+    <state x="1202" y="237" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1588771002936" />
+    <state x="1175" y="416" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1588770640257">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1175" y="416" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1588770640257" />
+    <state width="1879" height="469" key="GridCell.Tab.0.bottom" timestamp="1589106700539">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="294" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1588782607121" />
+    <state width="1879" height="469" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1589106700539" />
+    <state width="1879" height="469" key="GridCell.Tab.0.center" timestamp="1589106700539">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="294" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1588782607120" />
+    <state width="1879" height="469" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1589106700539" />
+    <state width="1879" height="469" key="GridCell.Tab.0.left" timestamp="1589106700538">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="294" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1588782607120" />
+    <state width="1879" height="469" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1589106700538" />
+    <state width="1879" height="469" key="GridCell.Tab.0.right" timestamp="1589106700539">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="294" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1588782607120" />
+    <state width="1879" height="469" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1589106700539" />
+    <state x="-967" y="0" width="974" height="1047" key="dock-window-1" timestamp="1588774819841">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-967" y="0" width="974" height="1047" key="dock-window-1/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1588774819841" />
+    <state x="-1304" y="240" key="run.anything.popup" timestamp="1588781997026">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1304" y="240" key="run.anything.popup/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1588781997026" />
+  </component>
+</project>
